@@ -8,6 +8,7 @@ Sampan Lite is a Flutter-based mobile application for managing child information
 - Add BMI Info: Users can input BMI-related information for a new person or an existing person.
 - Existing Child List: View a list of existing children with options to filter by the date of measurement and display only the latest entry for each child.
 - Calculations: Perform various calculations and display the results, including BMI calculation, and provide options to edit person information, save in the list, add a new person, and go back to the home screen.
+- When Data is saved it changes the background dynamically depending upon the BMI of user.
 
 ## Installation
 
